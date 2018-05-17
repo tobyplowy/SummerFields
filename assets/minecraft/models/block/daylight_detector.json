@@ -2,7 +2,7 @@
     "__comment": "This model was created with freundTech's Blender2Minecraft converter (BETA)",
     "textures": {
         "side"    : "blocks/daylight_detector_side",
-        "bottom"  : "blocks/daylight_detector_bottom",
+        "bottom"  : "blocks/variants/daylight_detector_bottom",
         "top"     : "blocks/daylight_detector_top",
         "particle": "blocks/daylight_detector_side"
     },

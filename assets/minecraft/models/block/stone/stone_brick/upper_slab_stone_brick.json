@@ -1,0 +1,10 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "parent": "block/stone/base_upper_slab",
+    "textures": {
+        "side": "blocks/stonebrick",
+        "top": "blocks/variants/stone/stone_brick/stone_brick_top",
+        "bottom": "blocks/variants/stone/stone_brick/stone_brick_top",
+        "midtop": "blocks/variants/stone/stone_brick/stone_brick_top"
+    }
+}

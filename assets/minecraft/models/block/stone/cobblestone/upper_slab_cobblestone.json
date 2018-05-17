@@ -1,0 +1,9 @@
+{
+    "parent": "block/stone/base_upper_slab",
+    "textures": {
+        "bottom": "blocks/variants/stone/cobblestone/cobblestone_top",
+        "top": "blocks/variants/stone/cobblestone/cobblestone_top",
+        "side": "blocks/cobblestone",
+        "midtop": "blocks/variants/stone/cobblestone/cobblestone_top"
+    }
+}

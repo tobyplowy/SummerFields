@@ -1,0 +1,9 @@
+{
+    "parent": "block/stone/base_inner_stairs",
+    "textures": {
+        "side": "blocks/cobblestone",
+        "top": "blocks/variants/stone/cobblestone/cobblestone_top",
+        "bottom": "blocks/variants/stone/cobblestone/cobblestone_top",
+        "midtop": "blocks/variants/stone/cobblestone/cobblestone_top"
+    }
+}

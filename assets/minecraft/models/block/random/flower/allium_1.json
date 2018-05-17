@@ -1,0 +1,7 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "particle": "blocks/variants/potted/flower_allium_1",
+        "cross": "blocks/variants/potted/flower_allium_1"
+    }
+}

@@ -1,8 +1,0 @@
-{
-    "parent": "block/cube_all",
-    "textures": {
-        "down": "blocks/stonebrick_top",
-        "up": "blocks/stonebrick_top",
-        "all": "blocks/stonebrick"
-    }
-}

@@ -1,9 +1,9 @@
 {
     "parent": "block/random/new_stone_smooth/base_3",
     "textures": {
-        "one": "blocks/stone_andesite_smooth_1",
-        "two": "blocks/stone_andesite_smooth_2",
-        "three": "blocks/stone_andesite_smooth_3",
-        "for": "blocks/stone_andesite_smooth_4"
+        "one": "blocks/variants/stone/polished/polished_andesite_1",
+        "two": "blocks/variants/stone/polished/polished_andesite_2",
+        "three": "blocks/variants/stone/polished/polished_andesite_3",
+        "for": "blocks/variants/stone/polished/polished_andesite_4"
     }
 }
