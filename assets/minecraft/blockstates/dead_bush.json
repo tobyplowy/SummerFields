@@ -2,7 +2,7 @@
     "variants": {
         "normal": [
             { "model": "dead_bush" },
-            { "model": "random/dead_bush/dead_bush1" }
+            { "model": "random/flower/dead_bush_1" }
         ]
     }
 }

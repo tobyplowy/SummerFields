@@ -1,5 +1,5 @@
 {
     "variants": {
-        "normal": { "model": "stone/brick" }
+        "normal": { "model": "stone/brick/brick" }
     }
 }

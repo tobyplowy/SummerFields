@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "snowy=false": [
+            { "model": "mycelium" },
+            { "model": "random/mycelium/mycelium_1" },
+            { "model": "random/mycelium/mycelium_2" },
+            { "model": "random/mycelium/mycelium_3" },
+            { "model": "random/mycelium/mycelium_4" },
+            { "model": "random/mycelium/mycelium_5" },
+            { "model": "random/mycelium/mycelium_6" },
+            { "model": "random/mycelium/mycelium_7" },
+            { "model": "random/mycelium/mycelium_8" },
+            { "model": "random/mycelium/mycelium_9" }
+        ],
+        "snowy=true": { "model": "grass_snowed" }
+    }
+}

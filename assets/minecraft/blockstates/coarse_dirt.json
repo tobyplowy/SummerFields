@@ -2,7 +2,7 @@
     "variants": {
         "normal": [
             { "model": "coarse_dirt" },
-            { "model": "random/coarse_dirt/coarse_dirt1" }
+            { "model": "random/coarse_dirt/coarse_dirt_1" }
         ]
     }
 }

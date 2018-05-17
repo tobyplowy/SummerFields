@@ -1,29 +1,59 @@
 {
     "variants": {
-        "contents=empty":            { "model": "flower_pot" },
+        "contents=empty": [
+            { "model": "flower_pot" },
+            { "model": "random/potted/flower_pot_1" },
+            { "model": "random/potted/flower_pot_2" },
+            { "model": "random/potted/flower_pot_3" }
+        ],
         "contents=rose":             { "model": "flower_pot_rose" },
         "contents=blue_orchid":      { "model": "flower_pot_orchid" },
-        "contents=allium":           { "model": "flower_pot_allium" },
-        "contents=houstonia":        { "model": "flower_pot_houstonia" },
-        "contents=red_tulip":        { "model": "flower_pot_tulip_red" },
-        "contents=orange_tulip":     { "model": "flower_pot_tulip_orange" },
-        "contents=white_tulip":      { "model": "flower_pot_tulip_white" },
-        "contents=pink_tulip":       { "model": "flower_pot_tulip_pink" },
-        "contents=oxeye_daisy":      { "model": "flower_pot_daisy" },
+        "contents=allium": [
+            { "model": "flower_pot_allium" },
+            { "model": "random/potted/flower_pot_allium_1" }
+        ],
+        "contents=houstonia": [
+            { "model": "flower_pot_houstonia" },
+            { "model": "random/potted/flower_pot_houstonia_1" },
+            { "model": "random/potted/flower_pot_houstonia_2" }
+        ],
+        "contents=red_tulip": [
+            { "model": "flower_pot_tulip_red" },
+            { "model": "random/potted/flower_pot_tulip_red_1" }
+        ],
+        "contents=orange_tulip": [
+            { "model": "flower_pot_tulip_orange" },
+            { "model": "random/potted/flower_pot_tulip_orange_1" }
+        ],
+        "contents=white_tulip": [
+            { "model": "flower_pot_tulip_white" },
+            { "model": "random/potted/flower_pot_tulip_white_1" }
+        ],
+        "contents=pink_tulip": [
+            { "model": "flower_pot_tulip_pink" },
+            { "model": "random/potted/flower_pot_tulip_pink_1" }
+        ],
+        "contents=oxeye_daisy": [
+            { "model": "flower_pot_daisy" },
+            { "model": "random/potted/flower_pot_daisy_1" }
+        ],
         "contents=dandelion":        { "model": "flower_pot_dandelion" },
-        "contents=oak_sapling":      { "model": "flower_pot_oak" },
-        "contents=spruce_sapling":   { "model": "flower_pot_spruce" },
-        "contents=birch_sapling":    { "model": "flower_pot_birch" },
-        "contents=jungle_sapling":   { "model": "flower_pot_jungle" },
-        "contents=acacia_sapling":   { "model": "flower_pot_acacia" },
-        "contents=dark_oak_sapling": { "model": "flower_pot_dark_oak" },
-        "contents=mushroom_red":     { "model": "flower_pot_mushroom_red" },
-        "contents=mushroom_brown":   { "model": "flower_pot_mushroom_brown" },
+        "contents=oak_sapling": { "model": "random/potted/flower_pot_oak_1" },
+        "contents=spruce_sapling": { "model": "random/potted/flower_pot_spruce_1" },
+        "contents=birch_sapling": { "model": "random/potted/flower_pot_birch_1" },
+        "contents=jungle_sapling": { "model": "random/potted/flower_pot_jungle_1" },
+        "contents=acacia_sapling": { "model": "random/potted/flower_pot_acacia_1" },
+        "contents=dark_oak_sapling": { "model": "random/potted/flower_pot_dark_oak_1" },
+        "contents=mushroom_red": { "model": "random/potted/flower_pot_mushroom_red_1" },
+        "contents=mushroom_brown": { "model": "random/potted/flower_pot_mushroom_brown_1" },
         "contents=dead_bush": [
             { "model": "flower_pot_dead_bush" },
-            { "model": "random/dead_bush/flower_pot_dead_bush1" }
+            { "model": "random/potted/flower_pot_dead_bush_1" }
         ],
-        "contents=fern":             { "model": "flower_pot_fern" },
-        "contents=cactus":           { "model": "flower_pot_cactus" }
+        "contents=fern": [
+            { "model": "flower_pot_fern" },
+            { "model": "random/potted/flower_pot_fern_1" }
+        ],
+        "contents=cactus":           { "model": "random/potted/flower_pot_cactus" }
     }
 }

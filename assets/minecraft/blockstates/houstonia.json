@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "houstonia" },
+            { "model": "random/flower/houstonia_1" },
+            { "model": "random/flower/houstonia_2" }
+        ]
+    }
+}

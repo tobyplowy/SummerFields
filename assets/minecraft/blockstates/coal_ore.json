@@ -2,13 +2,13 @@
     "variants": {
         "normal": [
             { "model": "coal_ore" },
-            { "model": "random/ore/coal/coal_ore1" },
-            { "model": "random/ore/coal/coal_ore2" },
-            { "model": "random/ore/coal/coal_ore3" },
-            { "model": "random/ore/coal/coal_ore4" },
-            { "model": "random/ore/coal/coal_ore5" },
-            { "model": "random/ore/coal/coal_ore6" },
-            { "model": "random/ore/coal/coal_ore7" }
+            { "model": "random/ore/coal/coal_ore_1" },
+            { "model": "random/ore/coal/coal_ore_2" },
+            { "model": "random/ore/coal/coal_ore_3" },
+            { "model": "random/ore/coal/coal_ore_4" },
+            { "model": "random/ore/coal/coal_ore_5" },
+            { "model": "random/ore/coal/coal_ore_6" },
+            { "model": "random/ore/coal/coal_ore_7" }
         ]
     }
 }
